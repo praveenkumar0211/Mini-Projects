@@ -1,0 +1,604 @@
+amr@amr-VirtualBox:~/Downloads$ ./mini
+
+Welcome to PPK hospital management system
+Enter 1 if you are Doctor
+Enter 2 if you are Patient	2
+
+
+Enter your choice:
+
+(1)New user?? Sign up
+(2) Login with user name and password 
+(3) Go back one step 
+(4) Exit the program1
+
+Welcome to our hospital
+please enter a unique username:	praveen
+
+please enter a strong password:	praveen
+
+please enter your mail id:	praveen
+
+please enter your contact number:	9894440358
+
+please enter your date of birth	2 11 2000
+
+please enter your age:	18
+
+please enter your height:	165
+
+please enter your blood pressure:	100
+
+please enter your blood sugar level in mg/L:	150
+
+please enter your weight:	50
+
+please enter your problem:	diabetes
+
+please enter your doctor name:	prathyush
+
+please enter your date of last checkup	4 5 2019
+
+
+Enter your choice:
+
+(1)New user?? Sign up
+(2) Login with user name and password 
+(3) Go back one step 
+(4) Exit the program2
+
+Welcome to our hospital
+please enter your username:	praveen
+
+please enter your password:	praveen
+
+Hello praveen
+
+Enter your choice:
+(1)Check your details
+(2)Check your blood pressure and blood sugar level
+(3)Check your BMI
+(4)Check availability of your doctor
+(5)Next checkup date
+(6)Update your details
+(7)Take an appoinment today
+(8)Logout
+7
+
+Enter today's date8 5 2019
+
+Doctors available today are:
+	 prathyush
+Please enter the doctor name you want appointment from:	prathyush
+
+Your appoinment is fixed with the doctor
+
+Enter your choice:
+(1)Check your details
+(2)Check your blood pressure and blood sugar level
+(3)Check your BMI
+(4)Check availability of your doctor
+(5)Next checkup date
+(6)Update your details
+(7)Take an appoinment today
+(8)Logout
+8
+
+Logging out
+
+Enter your choice:
+
+(1)New user?? Sign up
+(2) Login with user name and password 
+(3) Go back one step 
+(4) Exit the program3
+
+Welcome to PPK hospital management system
+Enter 1 if you are Doctor
+Enter 2 if you are Patient	1
+
+
+Enter your choice:
+
+(1)New user?? Sign up
+(2) Login with user name and password 
+(3) Go back one step 
+(4) Exit the program2
+
+Welcome to our hospital
+please enter your username:	prathyush
+
+please enter your password:	prathyush
+
+Hello prathyush
+
+Enter your choice:
+(1)Check your details
+(2)Check your patient details
+(3)Check your appoinments for today
+(4)Check availability of today's doctor
+(5)Update your details
+(6)Logout
+2
+
+Your Patients details are:
+Name: praveen	 Num: 9894440358	Problem: diabetes	Age: 18
+
+Enter your choice:
+(1)Check your details
+(2)Check your patient details
+(3)Check your appoinments for today
+(4)Check availability of today's doctor
+(5)Update your details
+(6)Logout
+
+Your appoinments are praveen
+
+
+Enter your choice:
+(1)Check your details
+(2)Check your patient details
+(3)Check your appoinments for today
+(4)Check availability of today's doctor
+(5)Update your details
+(6)Logout
+6
+
+Logging out
+
+Enter your choice:
+
+(1)New user?? Sign up
+(2) Login with user name and password 
+(3) Go back one step 
+(4) Exit the program4
+
+Thank you. Bye. Take Care because we Care
+Welcome to PPK hospital management system
+Enter 1 if you are Doctor
+Enter 2 if you are Patient	1
+
+
+Enter your choice:
+
+(1)New user?? Sign up
+(2) Login with user name and password 
+(3) Go back one step 
+(4) Exit the program1
+
+Welcome to our hospital
+please enter a unique username:	prathyush
+
+This user name already exists
+please enter a unique username:	praveen
+
+please enter a strong password:	praveen
+
+please enter your mail id:	praveen@gmail.com 
+
+please enter your contact number:	9894440358
+
+please enter your age:	18
+
+please enter your specialisation:	general
+
+Enter your 1 th available date1
+
+Enter your 2 th available date2
+
+Enter your 3 th available date3
+
+Enter your 4 th available date4
+
+Enter your 5 th available date5
+
+Enter your 6 th available date11
+
+Enter your 7 th available date12
+
+Enter your 8 th available date13
+
+Enter your 9 th available date14
+
+Enter your 10 th available date15
+
+Enter your 11 th available date21
+
+Enter your 12 th available date22
+
+Enter your 13 th available date23
+
+Enter your 14 th available date24
+
+Enter your 15 th available date25
+
+please enter your doctoral degree:	MBBS
+
+please enter your salary in INR:	100000
+
+
+Enter your choice:
+
+(1)New user?? Sign up
+(2) Login with user name and password 
+(3) Go back one step 
+(4) Exit the program2
+
+Welcome to our hospital
+please enter your username:	praveen
+
+please enter your password:	prav
+
+Wrong password. Try again
+please enter your password:	s
+
+Wrong password. Try again
+please enter your password:	e
+
+Wrong password. Try again
+please enter your password:	w
+
+Wrong password. Try again
+please enter your password:	x
+
+Wrong password. Try again
+please enter your password:	s
+
+Too many unsuccessful attempts. Try later.
+
+Enter your choice:
+
+(1)New user?? Sign up
+(2) Login with user name and password 
+(3) Go back one step 
+(4) Exit the program2
+
+Welcome to our hospital
+please enter your username:	praveen
+
+please enter your password:	praveen
+
+Hello praveen
+
+Enter your choice:
+(1)Check your details
+(2)Check your patient details
+(3)Check your appoinments for today
+(4)Check availability of today's doctor
+(5)Update your details
+(6)Logout
+6
+
+Logging out
+
+Enter your choice:
+
+(1)New user?? Sign up
+(2) Login with user name and password 
+(3) Go back one step 
+(4) Exit the program2
+
+Welcome to our hospital
+please enter your username:	prathyush
+
+please enter your password:	prathyush
+
+Hello prathyush
+
+Enter your choice:
+(1)Check your details
+(2)Check your patient details
+(3)Check your appoinments for today
+(4)Check availability of today's doctor
+(5)Update your details
+(6)Logout
+1
+
+Name: prathyush 
+Mail: prathyush@gmail.com 
+Contact Number: 6382072914 
+Specialisation: ortho 
+Degree: MBBS 
+Available dates: 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 17, 19 
+Age: 18 
+No. of appoinments remaining: 1 
+Salary: Rs.454321
+
+Enter your choice:
+(1)Check your details
+(2)Check your patient details
+(3)Check your appoinments for today
+(4)Check availability of today's doctor
+(5)Update your details
+(6)Logout
+2
+
+Your Patients details are:
+Name: sivaguru	 Num: 7632298922	Problem: Diabetes	Age: 19
+Name: hariharan	 Num: 8583178127	Problem: cramps	Age: 19
+
+Enter your choice:
+(1)Check your details
+(2)Check your patient details
+(3)Check your appoinments for today
+(4)Check availability of today's doctor
+(5)Update your details
+(6)Logout
+3
+
+Your appoinments are harish
+
+
+Enter your choice:
+(1)Check your details
+(2)Check your patient details
+(3)Check your appoinments for today
+(4)Check availability of today's doctor
+(5)Update your details
+(6)Logout
+4
+
+Enter today's date11 05 2019
+
+Other Doctors available today are:
+	 karthik
+	 prasana
+	 praveen
+
+Enter your choice:
+(1)Check your details
+(2)Check your patient details
+(3)Check your appoinments for today
+(4)Check availability of today's doctor
+(5)Update your details
+(6)Logout
+5
+
+choose the detail to be updated
+(1)User name
+(2)Password
+(3)Mail
+(4)Contact number
+(5)Specialisation
+(6)Degree
+(7Salary
+(8)Age
+(9)Available dates
+(10)Exit3
+abc@gmail.com
+
+choose the detail to be updated
+(1)User name
+(2)Password
+(3)Mail
+(4)Contact number
+(5)Specialisation
+(6)Degree
+(7Salary
+(8)Age
+(9)Available dates
+(10)Exit10
+
+
+Enter your choice:
+(1)Check your details
+(2)Check your patient details
+(3)Check your appoinments for today
+(4)Check availability of today's doctor
+(5)Update your details
+(6)Logout
+1
+
+Name: prathyush 
+Mail: abc@gmail.com 
+Contact Number: 6382072914 
+Specialisation: ortho 
+Degree: MBBS 
+Available dates: 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 17, 19 
+Age: 18 
+No. of appoinments remaining: 1 
+Salary: Rs.454321
+
+Enter your choice:
+(1)Check your details
+(2)Check your patient details
+(3)Check your appoinments for today
+(4)Check availability of today's doctor
+(5)Update your details
+(6)Logout
+6
+
+Logging out
+
+Enter your choice:
+
+(1)New user?? Sign up
+(2) Login with user name and password 
+(3) Go back one step 
+(4) Exit the program3
+
+Welcome to PPK hospital management system
+Enter 1 if you are Doctor
+Enter 2 if you are Patient	2
+
+
+Enter your choice:
+
+(1)New user?? Sign up
+(2) Login with user name and password 
+(3) Go back one step 
+(4) Exit the program1
+
+Welcome to our hospital
+please enter a unique username:	manasa
+
+please enter a strong password:	mns
+
+this is a weak password give more than 5 letters
+please enter a strong password:	manasa
+
+please enter your mail id:	manasa@gmail.com
+
+please enter your contact number:	8121657821
+
+please enter your date of birth	2 2 2000
+
+please enter your age:	19
+
+please enter your height:	168
+
+please enter your blood pressure:	100
+
+please enter your blood sugar level in mg/L:	100
+
+please enter your weight:	50
+
+please enter your problem:	dizziness
+
+please enter your doctor name:	praveen
+
+please enter your date of last checkup	24 4 2019
+
+
+Enter your choice:
+
+(1)New user?? Sign up
+(2) Login with user name and password 
+(3) Go back one step 
+(4) Exit the program2
+
+Welcome to our hospital
+please enter your username:	manasa
+
+please enter your password:	manasa
+
+Hello manasa
+
+Enter your choice:
+(1)Check your details
+(2)Check your blood pressure and blood sugar level
+(3)Check your BMI
+(4)Check availability of your doctor
+(5)Next checkup date
+(6)Update your details
+(7)Take an appoinment today
+(8)Logout
+3
+
+Your BMI is 17.72. You are Lean.
+
+Enter your choice:
+(1)Check your details
+(2)Check your blood pressure and blood sugar level
+(3)Check your BMI
+(4)Check availability of your doctor
+(5)Next checkup date
+(6)Update your details
+(7)Take an appoinment today
+(8)Logout
+4
+
+Enter today's date11  05 2019
+
+Doctors available today are:
+	 prathyush
+	 karthik
+
+
+YOUR DOCTOR IS NOT AVAILABLE TODAY
+
+Enter your choice:
+(1)Check your details
+(2)Check your blood pressure and blood sugar level
+(3)Check your BMI
+(4)Check availability of your doctor
+(5)Next checkup date
+(6)Update your details
+(7)Take an appoinment today
+(8)Logout
+2
+
+ your blood pressure level is fine
+ your blood sugar level is fine
+
+Enter your choice:
+(1)Check your details
+(2)Check your blood pressure and blood sugar level
+(3)Check your BMI
+(4)Check availability of your doctor
+(5)Next checkup date
+(6)Update your details
+(7)Take an appoinment today
+(8)Logout
+6
+
+
+choose the detail to be updated
+(1)User name
+(2)Password
+(3)Mail
+(4)Contact number
+(5)Problem
+(6)Doctor name
+(7)DOB
+(8)Age
+(9)Height
+(10)Weight
+(11)Blood pressure
+(12)Blood sugar level
+(13)Last checkup date
+(14)Exit6
+prathyush
+
+
+choose the detail to be updated
+(1)User name
+(2)Password
+(3)Mail
+(4)Contact number
+(5)Problem
+(6)Doctor name
+(7)DOB
+(8)Age
+(9)Height
+(10)Weight
+(11)Blood pressure
+(12)Blood sugar level
+(13)Last checkup date
+(14)Exit14
+
+
+Enter your choice:
+(1)Check your details
+(2)Check your blood pressure and blood sugar level
+(3)Check your BMI
+(4)Check availability of your doctor
+(5)Next checkup date
+(6)Update your details
+(7)Take an appoinment today
+(8)Logout
+7
+
+Enter today's date11 5 2019
+
+Doctors available today are:
+	 prathyush
+	 karthik
+Please enter the doctor name you want appointment from:	prathyush
+
+Your appoinment is fixed with the doctor
+
+Enter your choice:
+(1)Check your details
+(2)Check your blood pressure and blood sugar level
+(3)Check your BMI
+(4)Check availability of your doctor
+(5)Next checkup date
+(6)Update your details
+(7)Take an appoinment today
+(8)Logout
+8
+
+Logging out
+
+
